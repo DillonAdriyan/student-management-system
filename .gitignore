@@ -1,4 +1,5 @@
 /smsApp/__pycache__/*
+/api/__pycache__/*
 /smsApp/__init__.py*
 /api/migrations/__init__.py*
 /api/__init__.py*
